@@ -1,0 +1,13 @@
+C:\Users\Sasori\Documents\Visual Studio 2010\Projects\MyWebserver\MyWebserver\bin\Debug\MyWebserver.exe
+C:\Users\Sasori\Documents\Visual Studio 2010\Projects\MyWebserver\MyWebserver\bin\Debug\MyWebserver.pdb
+C:\Users\Sasori\Documents\Visual Studio 2010\Projects\MyWebserver\MyWebserver\obj\x86\Debug\MyWebserver.exe
+C:\Users\Sasori\Documents\Visual Studio 2010\Projects\MyWebserver\MyWebserver\obj\x86\Debug\MyWebserver.pdb
+C:\Users\Sasori\Documents\Visual Studio 2010\Projects\MyWebserver\MyWebserver\obj\x86\Debug\MyWebserver.csprojResolveAssemblyReference.cache
+C:\Users\karl\Downloads\SkyDrive\Fachhochschule\SWE\Übungen\myWebserver\MyWebserver\obj\x86\Debug\MyWebserver.exe
+C:\Users\karl\Downloads\SkyDrive\Fachhochschule\SWE\Übungen\myWebserver\MyWebserver\obj\x86\Debug\MyWebserver.pdb
+C:\Users\karl\Downloads\SkyDrive\Fachhochschule\SWE\Übungen\myWebserver\MyWebserver\bin\Debug\MyWebserver.exe
+C:\Users\karl\Downloads\SkyDrive\Fachhochschule\SWE\Übungen\myWebserver\MyWebserver\bin\Debug\MyWebserver.pdb
+C:\Users\karl\Downloads\SkyDrive\Fachhochschule\SWE\Übungen\myWebserver\MyWebserver\obj\x86\Debug\MyWebserver.csprojResolveAssemblyReference.cache
+C:\Users\karl\Downloads\SkyDrive\Fachhochschule\SWE\Übungen\myWebserver\MyWebserver\bin\Debug\MyWebserver.exe.config
+C:\Users\karl\Downloads\SkyDrive\Fachhochschule\SWE\Übungen\myWebserver\MyWebserver\bin\Debug\IPlugin.dll
+C:\Users\karl\Downloads\SkyDrive\Fachhochschule\SWE\Übungen\myWebserver\MyWebserver\bin\Debug\IPlugin.pdb

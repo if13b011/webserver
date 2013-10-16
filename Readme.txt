@@ -1,1 +1,1 @@
-SWE-Projet
+SWE-Projekt
